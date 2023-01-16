@@ -1,27 +1,4 @@
 <!-- Novem Phisher --> 
-  
- <p align="center"> 
-   <img src=".github/misc/logo.png"> 
- </p> 
-  
- <p align="center"> 
-   <img src="https://img.shields.io/badge/Version-1.0-green?style=for-the-badge"> 
-   <img src="https://img.shields.io/github/license/xNovem/Novem-Phisher-V1.0?style=for-the-badge"> 
-   <img src="https://img.shields.io/github/stars/xNovem/Novem-Phisher-V1.0?style=for-the-badge"> 
-   <img src="https://img.shields.io/github/issues/xNovem/Novem-Phisher-V1.0?color=red&style=for-the-badge"> 
-   <img src="https://img.shields.io/github/forks/xNovem/Novem-Phisher-V1.0?color=teal&style=for-the-badge"> 
- </p> 
-  
- <p align="center"> 
-   <img src="https://img.shields.io/badge/Author-htr--tech-blue?style=flat-square"> 
-   <img src="https://img.shields.io/badge/Open%20Source-Yes-darkgreen?style=flat-square"> 
-   <img src="https://img.shields.io/badge/Maintained%3F-Yes-lightblue?style=flat-square"> 
-   <img src="https://img.shields.io/badge/Written%20In-Bash-darkcyan?style=flat-square"> 
-   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhtr-tech%2Fzphisher&title=Visitors&edge_flat=false"/></a> 
- </p> 
-  
- <p align="center"><b>A beginners friendly, Automated phishing tool with 30+ templates.</b></p> 
-  
  ## 
   
  <h3><p align="center">Disclaimer</p></h3> 
@@ -93,21 +70,7 @@
  </details> 
   
  ## 
-  
- <h3 align="center"><i>:: Workflow ::</i></h3> 
- <p align="center"> 
- <img src=".github/misc/workflow.gif"/> 
- </p> 
-  
- ## 
-  
- ### Find Me on: 
- <p align="left"> 
-   <a href="https://tahmidrayat.is-a.dev" target="_blank"><img src="https://img.shields.io/badge/Socials-grey?style=for-the-badge&logo=linktree"></a> 
-   <a href="https://github.com/htr-tech" target="_blank"><img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github"></a> 
- </p> 
-  
-  
+ 
  ### *Thanks to all contributors*: 
   
  <table> 
