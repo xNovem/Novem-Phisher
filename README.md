@@ -31,7 +31,7 @@
   
  - Just, Clone this repository - 
    ``` 
-   git clone --depth=1 https://github.com/xNovem/Novem-Phisher-V1.0
+   git clone --depth=1 https://github.com/xNovem/Novem-Phisher
    ``` 
   
  - Now go to cloned directory and run `novem-phisher.sh` - 
