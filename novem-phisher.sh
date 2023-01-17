@@ -112,13 +112,27 @@ check_status() {
 
 ## Banner
 banner() {
-    echo "Novem-phising" | figlet 
+
+clear
+printf "\e[0m\n"
+printf "\e[1;34m  _   _                           \e[0m\e[1;32m  ____  _     _     _                  \e[0m\n"
+printf "\e[1;34m | \ | | _____   _____ _ __ ___   \e[0m\e[1;32m |  _ \| |__ (_)___| |__   ___ _ __    \e[0m\n"
+printf "\e[1;34m |  \| |/ _ \ \ / / _ \ '_ ' _ \  \e[0m\e[1;32m | |_) | '_ \| / __| '_ \ / _ \ '__|   \e[0m\n"
+printf "\e[1;34m | |\  | (_) \ V /  __/ | | | | | \e[0m\e[1;32m |  __/| | | | \__ \ | | |  __/ |      \e[0m\n"
+printf "\e[1;34m |_| \_|\___/ \_/ \___|_| |_| |_| \e[0m\e[1;32m |_|   |_| |_|_|___/_| |_|\___|_|      \e[0m\n"
+printf "\e[0m\n"
+printf "\e[0m\e[1;31m    Created By xNovem \e[0m\n"
+printf "\e[0m\e[1;31m(\e[0m\e[1;33m https:/github.com/xNovem \e[0m\e[1;31m) \e[0m\n"
+
 }
 
 
 ## Small Banner
 banner_small() {
 	 echo "Novem-phising" | figlet
+printf "\e[0m\n"	 
+printf "\e[0m\e[1;31m    Created By xNovem \e[0m\n"
+printf "\e[0m\e[1;31m(\e[0m\e[1;33m https:/github.com/xNovem \e[0m\e[1;31m) \e[0m\n"
 }
 
 ## Dependencies
